@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh69-gif&show_icons=true&locale=en" alt="mayukh69-gif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh69-gif&" alt="mayukh69-gif" /></p>
+
+## LeetCode Stats
+
+![](https://leetcard.jacoblin.cool/mayukhh18?ext=heatmap)
