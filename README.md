@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh69-gif" alt="mayukh69-gif" /></a> </p>
 
-- 🔭 I’m currently working on **Web projects**
+- 🔭 I’m currently working on **Way Station - A railway station navigation system**
 
 - 🌱 I’m currently learning **React**
 
