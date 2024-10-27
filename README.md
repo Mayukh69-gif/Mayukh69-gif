@@ -32,6 +32,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh69-gif&" alt="mayukh69-gif" /></p>
 
+
+[![An image of @mayukh69gif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayukh69gif)](https://holopin.io/@mayukh69gif)
+
 ## LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/mayukhh18?ext=heatmap)
